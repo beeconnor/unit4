@@ -1,0 +1,14 @@
+app.background = gradient('black', 'midnightBlue', start='top')
+
+# Draw the alien body.
+### (Hint: Use 7 shapes.)
+### Place Your Code Here ###
+
+# Write a function that draws one eye.
+def drawEye(centerX, centerY, eyeSize, pupilSize):
+    ### Place Your Code Here ###
+    pass
+
+##### Place your code above this line, code below is for testing purposes #####
+# test case:
+drawEye(200, 175, 55, 27)
